@@ -1,10 +1,11 @@
-//Linear solution. TLE for huge inputs
 public class Solution {
     public int rangeBitwiseAnd(int m, int n) {
-        int a = m;
-        for(int i=m+1; i<=n; i++){
-            a&=i;
+        int distance = 0;
+        while(m!=n){
+            m>>=1;
+            n>>=1;
+            distance++;
         }
-        return a;
+        return m<<distance;
     }
 }
