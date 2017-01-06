@@ -1,25 +1,17 @@
-//needs work.
 public class Solution {
     public int majorityElement(int[] nums) {
         
-        int count = 0; 
-        int mask = 1; 
-        int majority = 0;
+        HashMap<Integer,Integer> hm = new HashMap<Integer,Integer>();
         
-        for(int i = 0; i < 32; ++i) {
+        for(int i=0;i<nums.length;i++){
+            if(hm.get(nums[i])==null)
+                hm.put(nums[i],1);
+            else
+                hm.put(nums[i],hm.get(nums[i])+1);
             
-            count = 0;
-            
-            for(int j = 0; j < nums.length; ++j)
-                //increment if current bit is set
-                if((mask & nums[j])==1) 
-                    count++;
-            
-            if(count > nums.length/2) 
-                majority |= mask;
-                
-            mask <<= 1;
+            if(hm.get(nums[i])>(nums.length/2))
+                return nums[i];
         }
-        return majority;
+        return 0;
     }
 }
