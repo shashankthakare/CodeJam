@@ -1,4 +1,3 @@
-//incomplete solution
 public class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         HashMap<Integer,Integer> hmap = new HashMap<Integer,Integer>();
@@ -11,5 +10,11 @@ public class Solution {
                 hmap.put(nums[i],1);
         }
         
+        for(int i=1; i<=nums.length; i++){
+            if(hmap.get(i)==null)
+            missingNumbers.add(i);
+        }
+        
+        return missingNumbers;
     }
 }
