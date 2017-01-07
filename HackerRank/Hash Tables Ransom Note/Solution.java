@@ -12,13 +12,22 @@ public class Solution {
             return false;
         
         for(int i=0; i<magazineParts.length; i++){
-            magazineMap.put(magazineParts[i],i);
+            if(magazineMap.containsKey(magazineParts[i]))
+                magazineMap.put(magazineParts[i],magazineMap.get(magazineParts[i])+1);
+            else
+                magazineMap.put(magazineParts[i],1);
         }
         
         for(int i=0; i<noteParts.length; i++){
             if(magazineMap.containsKey(noteParts[i])==false)
                 return false;
-            
+            else{
+                //check if its used or not
+                if(magazineMap.get(noteParts[i])==0)
+                    return false;
+                else
+                    magazineMap.put(noteParts[i],magazineMap.get(noteParts[i])-1);
+            }
         }
         
         return true;
