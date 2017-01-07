@@ -1,6 +1,5 @@
 import java.util.*;
 
-//todo: handle cases for word repetition
 public class Solution {
     HashMap<String, Integer> magazineMap = new HashMap<String, Integer>();
     
@@ -9,6 +8,9 @@ public class Solution {
         String[] magazineParts = magazine.split(" ");
         String[] noteParts = note.split(" ");
         
+        if(noteParts.length > magazineParts.length)
+            return false;
+        
         for(int i=0; i<magazineParts.length; i++){
             magazineMap.put(magazineParts[i],i);
         }
@@ -16,6 +18,7 @@ public class Solution {
         for(int i=0; i<noteParts.length; i++){
             if(magazineMap.containsKey(noteParts[i])==false)
                 return false;
+            
         }
         
         return true;
