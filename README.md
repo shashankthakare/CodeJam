@@ -1,2 +1,1 @@
-# CodeJam
-Soultions for competetive programming problems
+Soultions for Competetive-Programming problems LeetCode, HackerRank, TopCoder, CodeChef & Codility
