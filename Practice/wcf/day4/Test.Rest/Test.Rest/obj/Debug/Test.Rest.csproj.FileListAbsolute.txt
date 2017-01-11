@@ -1,0 +1,5 @@
+c:\users\sghare\documents\visual studio 2010\Projects\Test.Rest\Test.Rest\obj\Debug\Test.Rest.csprojResolveAssemblyReference.cache
+c:\users\sghare\documents\visual studio 2010\Projects\Test.Rest\Test.Rest\bin\Debug\Test.Rest.dll
+c:\users\sghare\documents\visual studio 2010\Projects\Test.Rest\Test.Rest\bin\Debug\Test.Rest.pdb
+c:\users\sghare\documents\visual studio 2010\Projects\Test.Rest\Test.Rest\obj\Debug\Test.Rest.dll
+c:\users\sghare\documents\visual studio 2010\Projects\Test.Rest\Test.Rest\obj\Debug\Test.Rest.pdb
