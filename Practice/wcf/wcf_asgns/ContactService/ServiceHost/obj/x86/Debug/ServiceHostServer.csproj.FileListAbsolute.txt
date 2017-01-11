@@ -1,0 +1,16 @@
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\bin\Debug\ServiceHost.exe.config
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\bin\Debug\ServiceHost.exe
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\bin\Debug\ServiceHost.pdb
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\bin\Debug\OrderingService.dll
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\bin\Debug\OrderingService.pdb
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\obj\x86\Debug\ServiceHost.exe
+c:\documents and settings\abhishek\my documents\visual studio 2010\Projects\OrderingService\ServiceHost\obj\x86\Debug\ServiceHost.pdb
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\obj\x86\Debug\ServiceHost.exe
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\obj\x86\Debug\ServiceHost.pdb
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\bin\Debug\OrderingService.dll
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\bin\Debug\OrderingService.pdb
+C:\Users\Dell\Desktop\wcf_asgns\ContactService\ServiceHost\obj\x86\Debug\ServiceHostServer.csprojResolveAssemblyReference.cache

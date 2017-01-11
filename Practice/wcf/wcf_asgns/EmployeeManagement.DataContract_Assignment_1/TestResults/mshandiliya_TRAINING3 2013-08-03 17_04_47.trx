@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="aebe0583-4f7c-482a-9bf3-453a936eb23e" name="mshandiliya@TRAINING3 2013-08-03 17:04:47" runUser="PUNE\mshandiliya" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="653d5e6b-7427-496f-a05e-e489b8797674">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="mshandiliya_TRAINING3 2013-08-03 17_04_47" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-08-03T17:04:47.8901380+05:30" queuing="2013-08-03T17:04:51.7775267+05:30" start="2013-08-03T17:04:51.9265416+05:30" finish="2013-08-03T17:06:07.4540936+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateEmployeeSuccess" storage="g:\new folder (3)\employeemanagement.datacontract_assignment\testmodel\bin\debug\testmodel.dll" id="7a467b03-cb85-68f8-8b6c-b475668536cb">
+      <Execution id="79804039-7d94-46f2-b404-13c420fe7e67" />
+      <TestMethod codeBase="G:/New folder (3)/EmployeeManagement.DataContract_Assignment/TestModel/bin/Debug/TestModel.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestModel.ClientTest, TestModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateEmployeeSuccess" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7a467b03-cb85-68f8-8b6c-b475668536cb" executionId="79804039-7d94-46f2-b404-13c420fe7e67" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="79804039-7d94-46f2-b404-13c420fe7e67" testId="7a467b03-cb85-68f8-8b6c-b475668536cb" testName="CreateEmployeeSuccess" computerName="TRAINING3" duration="00:01:13.0119909" startTime="2013-08-03T17:04:52.6306120+05:30" endTime="2013-08-03T17:06:07.3260808+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79804039-7d94-46f2-b404-13c420fe7e67">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestModel.ClientTest.CreateEmployeeSuccess threw exception: 
+System.TimeoutException: The request channel timed out while waiting for a reply after 00:00:59.5979598. Increase the timeout value passed to the call to Request or increase the SendTimeout value on the Binding. The time allotted to this operation may have been a portion of a longer timeout. ---&gt; System.TimeoutException: The HTTP request to 'http://localhost:4411/EmployeeManagementService.svc' has exceeded the allotted timeout of 00:01:00. The time allotted to this operation may have been a portion of a longer timeout. ---&gt; System.Net.WebException: The operation has timed out</Message>
+          <StackTrace>    at System.Net.HttpWebRequest.GetResponse()
+   at System.ServiceModel.Channels.HttpChannelFactory.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+ --- End of inner exception stack trace ---
+    at System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   at System.ServiceModel.Channels.HttpChannelFactory.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+ --- End of inner exception stack trace ---
+ 
+Server stack trace: 
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ClientReliableChannelBinder`1.RequestClientReliableChannelBinder`1.OnRequest(TRequestChannel channel, Message message, TimeSpan timeout, MaskingMode maskingMode)
+   at System.ServiceModel.Channels.ClientReliableChannelBinder`1.Request(Message message, TimeSpan timeout, MaskingMode maskingMode)
+   at System.ServiceModel.Channels.ClientReliableChannelBinder`1.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.SecurityRequestSessionChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at ClientReference.ICreateEmployee.CreateEmployee(CreateEmployeeRequest employee)
+   at ClientReference.CreateEmployeeClient.CreateEmployee(CreateEmployeeRequest employee) in G:\New folder (3)\EmployeeManagement.DataContract_Assignment\TestModel\EmployeeImplementation.cs:line 413
+   at TestModel.ClientTest.CreateEmployeeSuccess() in G:\New folder (3)\EmployeeManagement.DataContract_Assignment\TestModel\ClientTest.cs:line 24
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

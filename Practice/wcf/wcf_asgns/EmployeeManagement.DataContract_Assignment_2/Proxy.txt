@@ -1,0 +1,1 @@
+svcutil http://localhost:9999/EmployeeManagementService.svc?wsdl /n:*,ClientReference /ct:System.Collections.Generic.List`1

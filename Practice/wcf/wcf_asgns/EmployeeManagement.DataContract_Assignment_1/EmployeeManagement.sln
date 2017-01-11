@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.DataContracts", "EmployeeManagement.DataContract\EmployeeManagement.DataContracts.csproj", "{D26E9202-9E21-403B-8A97-828033972334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.ServiceContracts", "EmployeeManagement.ServiceContract\EmployeeManagement.ServiceContracts.csproj", "{36273CE7-7417-4786-B6D7-1F3694ADD928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.ServiceImplementation", "EmployeeManagement.ServiceImpl\EmployeeManagement.ServiceImplementation.csproj", "{B35C821F-0E29-4B53-8E07-CA5CE9AB561E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestModel", "TestModel\TestModel.csproj", "{2266E0F8-A6AE-47F4-9985-E0A392D1D537}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4083D32B-8A19-4D92-AFDF-2D367FB0EB7E}"
+	ProjectSection(SolutionItems) = preProject
+		EmployeeManagement.DataContract.vsmdi = EmployeeManagement.DataContract.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{A97558ED-39F0-4DD0-9C39-A39DA0F74F9A}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = EmployeeManagement.DataContract.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26E9202-9E21-403B-8A97-828033972334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26E9202-9E21-403B-8A97-828033972334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26E9202-9E21-403B-8A97-828033972334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26E9202-9E21-403B-8A97-828033972334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36273CE7-7417-4786-B6D7-1F3694ADD928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36273CE7-7417-4786-B6D7-1F3694ADD928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36273CE7-7417-4786-B6D7-1F3694ADD928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36273CE7-7417-4786-B6D7-1F3694ADD928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35C821F-0E29-4B53-8E07-CA5CE9AB561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35C821F-0E29-4B53-8E07-CA5CE9AB561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35C821F-0E29-4B53-8E07-CA5CE9AB561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35C821F-0E29-4B53-8E07-CA5CE9AB561E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2266E0F8-A6AE-47F4-9985-E0A392D1D537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2266E0F8-A6AE-47F4-9985-E0A392D1D537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2266E0F8-A6AE-47F4-9985-E0A392D1D537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2266E0F8-A6AE-47F4-9985-E0A392D1D537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97558ED-39F0-4DD0-9C39-A39DA0F74F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97558ED-39F0-4DD0-9C39-A39DA0F74F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97558ED-39F0-4DD0-9C39-A39DA0F74F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97558ED-39F0-4DD0-9C39-A39DA0F74F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

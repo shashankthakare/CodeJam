@@ -1,0 +1,15 @@
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\obj\Debug\ResolveAssemblyReference.cache
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\bin\Debug\EmployeeManagement.DataContracts.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\bin\Debug\EmployeeManagement.DataContracts.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\obj\Debug\EmployeeManagement.DataContracts.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\obj\Debug\EmployeeManagement.DataContracts.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\bin\Debug\EmployeeManagement.DataContracts.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\bin\Debug\EmployeeManagement.DataContracts.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\obj\Debug\EmployeeManagement.DataContracts.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\obj\Debug\EmployeeManagement.DataContracts.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\EmployeeManagement.DataContract\obj\Debug\EmployeeManagement.DataContracts.pdb
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\EmployeeManagement.DataContract\bin\Debug\EmployeeManagement.DataContracts.dll
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\EmployeeManagement.DataContract\bin\Debug\EmployeeManagement.DataContracts.pdb
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\EmployeeManagement.DataContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\EmployeeManagement.DataContract\obj\Debug\EmployeeManagement.DataContracts.dll
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\EmployeeManagement.DataContract\obj\Debug\EmployeeManagement.DataContracts.pdb

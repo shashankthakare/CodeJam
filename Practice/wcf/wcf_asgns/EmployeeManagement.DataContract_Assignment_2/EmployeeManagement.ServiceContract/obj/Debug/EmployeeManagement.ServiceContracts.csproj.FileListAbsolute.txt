@@ -1,0 +1,28 @@
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\ResolveAssemblyReference.cache
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.csprojResolveAssemblyReference.cache
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.pdb
+C:\Users\mshandiliya\Desktop\New folder (2)\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.dll
+C:\Users\mshandiliya\Desktop\New folder (2)\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.pdb
+C:\Users\mshandiliya\Desktop\New folder (2)\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.dll
+C:\Users\mshandiliya\Desktop\New folder (2)\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.pdb
+C:\Users\mshandiliya\Desktop\New folder (2)\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mshandiliya\Desktop\New folder (2)\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.dll
+C:\Users\mshandiliya\Desktop\New folder (2)\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.pdb
+C:\Users\Dell\Desktop\wcf_asgns\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.dll
+C:\Users\Dell\Desktop\wcf_asgns\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.pdb
+C:\Users\Dell\Desktop\wcf_asgns\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.dll
+C:\Users\Dell\Desktop\wcf_asgns\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.pdb
+C:\Users\Dell\Desktop\wcf_asgns\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\wcf_asgns\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.dll
+C:\Users\Dell\Desktop\wcf_asgns\EmployeeManagement.DataContract_Assignment_2\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.pdb

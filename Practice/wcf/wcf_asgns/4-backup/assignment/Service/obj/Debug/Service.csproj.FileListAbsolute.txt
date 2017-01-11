@@ -1,0 +1,88 @@
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\Service.dll
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\Service.pdb
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\EmployeeManagement.ServiceImpl.dll
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\EmployeeManagement.ServiceContract.dll
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\EmployeeManagement.DataContract.dll
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\EmployeeManagement.ServiceImpl.pdb
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\EmployeeManagement.ServiceContract.pdb
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\bin\EmployeeManagement.DataContract.pdb
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\obj\Debug\Service.dll
+c:\users\mshandiliya\documents\visual studio 2010\Projects\EmployeeManagement.DataContract\Service\obj\Debug\Service.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\Service.dll
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\Service.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\EmployeeManagement.ServiceImpl.dll
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\EmployeeManagement.ServiceContract.dll
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\EmployeeManagement.DataContract.dll
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\EmployeeManagement.ServiceImpl.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\EmployeeManagement.ServiceContract.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\bin\EmployeeManagement.DataContract.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\obj\Debug\Service.dll
+E:\New folder (3)\EmployeeManagement.DataContract_withoutsvc_ws\Service\obj\Debug\Service.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\Service.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\Service.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceImpl.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceContract.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.DataContract.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceImpl.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceContract.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.DataContract.pdb
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.dll
+E:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\Service.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\Service.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\ResolveAssemblyReference.cache
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceImplementation.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceContracts.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.DataContracts.dll
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceImplementation.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceContracts.pdb
+G:\New folder (3)\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.DataContracts.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\Service.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\Service.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceImplementation.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceContracts.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.DataContracts.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceImplementation.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.ServiceContracts.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\bin\EmployeeManagement.DataContracts.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment\Service\obj\Debug\Service.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\Service.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\Service.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceImplementation.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceContracts.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.DataContracts.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceImplementation.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceContracts.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.DataContracts.pdb
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\obj\Debug\Service.dll
+C:\Users\Dell\Desktop\mannu\EmployeeManagement.DataContract_Assignment4_shash\Service\obj\Debug\Service.pdb
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\Service.dll
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\Service.pdb
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceImplementation.dll
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceContracts.dll
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.DataContracts.dll
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceImplementation.pdb
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.ServiceContracts.pdb
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\bin\EmployeeManagement.DataContracts.pdb
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\obj\Debug\Service.dll
+C:\Users\sthakare\Desktop\main\wcf\wcf_asgns\EmployeeManagement.DataContract_Assignment4_shash\Service\obj\Debug\Service.pdb
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\Service.dll
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\Service.pdb
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\EmployeeManagement.ServiceImplementation.dll
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\EmployeeManagement.ServiceContracts.dll
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\EmployeeManagement.DataContracts.dll
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\EmployeeManagement.ServiceImplementation.pdb
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\EmployeeManagement.ServiceContracts.pdb
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\bin\EmployeeManagement.DataContracts.pdb
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\obj\Debug\Service.dll
+C:\Users\sthakare\Desktop\main\SVN\sthakare\2013-08-03 WCF-4\assignment\Service\obj\Debug\Service.pdb
