@@ -1,0 +1,11 @@
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.EmployeeService.dll
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.EmployeeService.pdb
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\obj\Debug\Training.EmployeeService.dll
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\obj\Debug\Training.EmployeeService.pdb
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.ServiceImplementation.dll
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.ServiceContracts.dll
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.Contracts.dll
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.ServiceImplementation.pdb
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.ServiceContracts.pdb
+C:\Users\sthakare\Desktop\Training.Contracts\Training.EmployeeService\bin\Training.Contracts.pdb
