@@ -1,0 +1,6 @@
+D:\Sanjay\Projects\Other\Training.July\WCF.Day2\TestSuite\bin\Debug\TestSuite.dll
+D:\Sanjay\Projects\Other\Training.July\WCF.Day2\TestSuite\bin\Debug\TestSuite.pdb
+D:\Sanjay\Projects\Other\Training.July\WCF.Day2\TestSuite\obj\Debug\TestSuite.csprojResolveAssemblyReference.cache
+D:\Sanjay\Projects\Other\Training.July\WCF.Day2\TestSuite\obj\Debug\TestSuite.dll
+D:\Sanjay\Projects\Other\Training.July\WCF.Day2\TestSuite\obj\Debug\TestSuite.pdb
+D:\Sanjay\Projects\Other\Training.July\WCF.Day2\TestSuite\bin\Debug\TestSuite.dll.config
