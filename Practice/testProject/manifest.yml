@@ -1,0 +1,6 @@
+---
+applications:
+- name: testProject--19225
+  memory: 1024M
+  host: testProject--19225
+  domain: cfapps.io
