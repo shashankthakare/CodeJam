@@ -1,4 +1,0 @@
-c:\users\sghare\documents\visual studio 2010\Projects\WCF.Rest\WCF.Rest\bin\WCF.Rest.dll
-c:\users\sghare\documents\visual studio 2010\Projects\WCF.Rest\WCF.Rest\bin\WCF.Rest.pdb
-c:\users\sghare\documents\visual studio 2010\Projects\WCF.Rest\WCF.Rest\obj\Debug\WCF.Rest.dll
-c:\users\sghare\documents\visual studio 2010\Projects\WCF.Rest\WCF.Rest\obj\Debug\WCF.Rest.pdb

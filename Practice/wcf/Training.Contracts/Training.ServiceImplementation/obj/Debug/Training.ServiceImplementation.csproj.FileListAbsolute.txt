@@ -1,9 +1,0 @@
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\bin\Debug\Training.ServiceImplementation.dll
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\bin\Debug\Training.ServiceImplementation.pdb
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\bin\Debug\Training.Contracts.dll
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\bin\Debug\Training.ServiceContracts.dll
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\bin\Debug\Training.Contracts.pdb
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\bin\Debug\Training.ServiceContracts.pdb
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\obj\Debug\Training.ServiceImplementation.dll
-C:\Users\sthakare\Desktop\Training.Contracts\Training.ServiceImplementation\obj\Debug\Training.ServiceImplementation.pdb

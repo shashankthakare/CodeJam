@@ -1,7 +1,0 @@
-G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\ResolveAssemblyReference.cache
-G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.dll
-G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.ServiceContracts.pdb
-G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.dll
-G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\bin\Debug\EmployeeManagement.DataContracts.pdb
-G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.dll
-G:\New folder (3)\EmployeeManagement.DataContract_Assignment\EmployeeManagement.ServiceContract\obj\Debug\EmployeeManagement.ServiceContracts.pdb

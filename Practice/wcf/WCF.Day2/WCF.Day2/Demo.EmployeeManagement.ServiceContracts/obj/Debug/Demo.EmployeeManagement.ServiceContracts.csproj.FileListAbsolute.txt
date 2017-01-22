@@ -1,7 +1,0 @@
-D:\Sanjay\Projects\Other\Training.July\WCF.Day2\Demo.EmployeeManagement.ServiceContracts\obj\Debug\Demo.EmployeeManagement.ServiceContracts.csprojResolveAssemblyReference.cache
-D:\Sanjay\Projects\Other\Training.July\WCF.Day2\Demo.EmployeeManagement.ServiceContracts\bin\Debug\Demo.EmployeeManagement.ServiceContracts.dll
-D:\Sanjay\Projects\Other\Training.July\WCF.Day2\Demo.EmployeeManagement.ServiceContracts\bin\Debug\Demo.EmployeeManagement.ServiceContracts.pdb
-D:\Sanjay\Projects\Other\Training.July\WCF.Day2\Demo.EmployeeManagement.ServiceContracts\bin\Debug\Demo.EmployeeManagement.DataContracts.dll
-D:\Sanjay\Projects\Other\Training.July\WCF.Day2\Demo.EmployeeManagement.ServiceContracts\bin\Debug\Demo.EmployeeManagement.DataContracts.pdb
-D:\Sanjay\Projects\Other\Training.July\WCF.Day2\Demo.EmployeeManagement.ServiceContracts\obj\Debug\Demo.EmployeeManagement.ServiceContracts.dll
-D:\Sanjay\Projects\Other\Training.July\WCF.Day2\Demo.EmployeeManagement.ServiceContracts\obj\Debug\Demo.EmployeeManagement.ServiceContracts.pdb

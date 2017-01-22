@@ -1,1 +1,0 @@
-﻿//svcutil.exe http://localhost:9999/EmployeeManagementService.svc?wsdl
